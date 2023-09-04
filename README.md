@@ -1,2 +1,2 @@
 # CE-projects
-Cloud Engineering Projects
+Cloud Engineering Projects with Azubi Africa
